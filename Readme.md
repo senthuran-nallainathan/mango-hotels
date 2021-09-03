@@ -32,8 +32,13 @@ Please use the following environment variables for successful running of the app
 The .env file is to be placed under reservation folder of the project
 
 PORT=3001
+
 DB_NAME=VkWjuv6rz4
+
 DB_HOST=remotemysql.com
+
 DB_PORT=3306
+
 DB_USER=VkWjuv6rz4
+
 DB_PW="VHr64TZoaO"
