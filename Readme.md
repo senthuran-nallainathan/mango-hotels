@@ -27,4 +27,24 @@ Username - user
 Password - 123123
 
 **Environment Variables**
-Please use the following environment variables for successful running of the application
+Please use the following environment variables for successful running of the application.
+
+The .env file is to be placed under reservation folder of the project
+
+# Port to host application on.
+PORT=3001
+
+# Name of the mysql database you will be connecting to.
+DB_NAME=VkWjuv6rz4
+
+# Host name for connecting to MySQL database
+DB_HOST=remotemysql.com
+
+#Port to connect to MySQL database
+DB_PORT=3306
+
+# User for connecting to MySQL database
+DB_USER=VkWjuv6rz4
+
+# Password for connecting to MySQL database
+DB_PW="VHr64TZoaO"
