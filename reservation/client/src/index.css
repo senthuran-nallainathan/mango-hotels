@@ -1,0 +1,18 @@
+html {
+  height: max-content;
+}
+
+body {
+  height: 100%;
+  max-height: max-content;
+  font-family: 'Nanum Myeongjo', serif;
+  background-color: #101777;
+  background-size: cover;
+  background-position: center;
+}
+
+#root div div canvas {
+  position: absolute;
+  z-index: -1;
+  height: fit-content;
+}
